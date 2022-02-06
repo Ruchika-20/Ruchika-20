@@ -16,7 +16,7 @@
 <h4> You can checkout my other profiles below: </h4> <br>
 <a href="https://www.linkedin.com/in/ruchika-singh-20/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"> </a>
 <a href="mailto:ruchikasingh778@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
-<a href="https://PortFolio1.html"> <img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/> </a>
+<a href="https://ruchika-20.github.io/"> <img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/> </a>
 
 
 

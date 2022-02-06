@@ -4,13 +4,13 @@
 
 
 - 🌱 I’m currently learning Full Stack Development, Python and Machine Learning
-- <img src="https://www.nicepng.com/maxp/u2q8r5r5a9t4w7t4/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/> <img src="https://icon2.cleanpng.com/20190401/prp/kisspng-machine-learning-deep-learning-with-python-artific-cirrascale-cloud-services-deep-learning-classroom-5ca1b3d45c15f0.4911203515541012043772.jpg">
+- <img src="https://img.icons8.com/color/48/000000/python.png"> <img src="https://img.icons8.com/nolan/48/react-native.png"/> <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png">
 - 💬 Ask me about anything Python, Web development , Machine Learning.
 
 - Checkout My Github Status
 <span>   
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruchika_20&theme=radical&show_icons=true&count_private=true&hide=stars" width=455>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchika_20&theme=radical&layout=compact&hide=css" width=387> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruchika-20&theme=radical&show_icons=true&count_private=true&hide=stars" width=455>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchika-20&theme=radical&layout=compact&hide=css" width=387> &nbsp;
 </span>
 
 <h4> You can checkout my other profiles below: </h4> <br>
